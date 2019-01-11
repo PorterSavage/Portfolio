@@ -1,0 +1,66 @@
+img{
+  height: 300px;
+  width: 300px;
+}
+
+#name{
+  text-align: center;
+}
+
+.panel {
+  margin: 20px;
+  background-color: #ff71ce;
+  border: 3px solid #05ffa1;
+  border-radius: 4px;
+}
+
+.panel-body{
+  text-align:center;
+  list-style-position:inside;
+}
+
+body{
+  background-color: #b967ff;
+}
+
+#photo{
+  border: 3px solid #05ffa1;
+  margin-left: 20px;
+  border-radius: 4px;
+  float: left;
+}
+.me{
+  padding-right: 10px;
+  margin-left: 215px;
+}
+
+#bio{
+  width: 300px;
+  float:left;
+}
+
+#bio h2{
+  color: #01cdfe;
+}
+
+h1,h2{
+  color: #01cdfe;
+}
+
+.about{
+  text-align:center;
+  margin-top: -19px;
+}
+
+.background{
+  text-align:center;
+}
+
+#hobbies{
+  margin-top: -300px;
+  margin-left: 5px;
+}
+
+.epicodus{
+  color:blue;
+}
